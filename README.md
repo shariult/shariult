@@ -54,7 +54,7 @@
 
 ### CMS & WordPress
 
-![wordpress](https://skillicons.dev/icons?i=wordpress)![woocommerce](./img/icons/elementor.svg)![woocommerce](./img/icons/woo.svg)
+[![wordpress](https://skillicons.dev/icons?i=wordpress) ![woocommerce](./img/icons/elementor.svg) ![woocommerce](./img/icons/woo.svg) ](https://shariul.com)
 
 ---
 
