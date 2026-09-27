@@ -54,13 +54,7 @@
 
 ### CMS & WordPress
 
-<div>
-<a href="https://github.com/shariult" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="./img/icons/elementor.svg" width="48" height="48" alt="Elementor" style="vertical-align: middle; margin-right: 10px;" />
-  <img src="./img/icons/woo.svg" width="48" height="48" alt="WooCommerce" style="vertical-align: middle;" />
-</a>
-</div>
+[![cms](./img/icons/cms.svg)](https://github.com/shairult)
 
 <br/>
 
