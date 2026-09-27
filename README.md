@@ -1,8 +1,24 @@
-# 👨‍💻 About Me:
+<img src="./img/shariul-banner.png" alt="md. shariul islam tuhin" />
 
-**Full-Stack Web Developer** with 3+ years of experience specializing in modern Web Application development with **React.js, Next.js, Express.js, PHP, and Laravel**. I focus on developing scalable back-end APIs, dynamic front-end web apps, and high-converting e-commerce & business platforms.
+<br/>
 
-I am passionate about collaborating with individuals, startups, and growing businesses to increase their online growth and enhance their digital look and feel through tailored web solutions.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Md. Shariul Islam Tuhin</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Working+as+a+Freelancer;Passionate+Full-stack+Web+Developer;JavaScript,+Next.js+and+WordPress+Expert;Linux+Enthusiast" alt="Typing SVG" /></a>
+  </ul>
+</div>
+
+<br/>
+
+## 👨‍💻 About Me:
+
+- I have **3+ years of experience** in Full-stack Web Development.
+- I do **Front-end development** using **React.js, Next.js, TypeScript and Redux.js**.
+- I can develop Back-end using **Node.js, Express.js, MongoDB (with Mongoose), PHP, PostgreSQL, MariaDB and Prisma**. 
+- I am currently learning **Godot for Game Development**.
+- **Contact me with your queries** for any of these technologies and more.
 
 ---
 
@@ -12,40 +28,47 @@ I am passionate about collaborating with individuals, startups, and growing busi
 
 ---
 
-# 🛠️ Tech Stack:
+<br/>
 
-## Front-end Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+## 🛠️ Tech Stack:
 
-## Back-end & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Front-end Development
+[![Front-end Development](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,react,redux,next)](https://github.com/shariult)
 
-## Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### Back-end & Databases
+[![Back-end & Databases](https://skillicons.dev/icons?i=nodejs,expressjs,php,mongodb,postgres,mysql,prisma)](https://github.com/shariult)
 
-## Cloud Platforms
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+### Languages
 
-## Tools & System
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=javascript,typescript,php)](https://github.com/shariult)
 
-## CMS & WordPress
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=Elementor&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white)
+### Cloud Platforms
+[![Cloud Platforms](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/shariult)
+
+### Tools & System
+[![Tools & System](https://skillicons.dev/icons?i=linux,git,github,vscode,postman,docker)](https://github.com/shariult)
+
+### Design Tools
+
+[![Design Tools](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://github.com/shariult)
+
+### CMS & WordPress
+
+![wordpress](https://skillicons.dev/icons?i=wordpress)![woocommerce](./img/icons/elementor.svg)![woocommerce](./img/icons/woo.svg)
 
 ---
 
-# 🎯 What I Specialize In:
+<br/>
 
-- **E-Commerce & Online Stores:** Building custom digital storefronts using Next.js/React or WooCommerce.
-- **Custom Web Applications:** Building full-stack web platforms, SaaS apps, dynamic dashboards, and sports sites.
-- **RESTful API & Database Architecture:** Designing server-side backend services with Express.js, Mongoose, MongoDB, PostgreSQL, or MySQL/PHP.
-- **CMS & Landing Pages:** Crafting pixel-perfect landing pages and custom WordPress websites using Elementor, Divi, and ACF.
+## Github Statistics & Analysis:
 
----
+<a><img align="center" src="https://streak-stats.demolab.com/?user=shariult" /></a>
 
-# 📬 Let's Connect & Collaborate!
+<br/>
+
+## 📬 Let's Connect & Collaborate!
 
 I am currently open to freelance projects, remote positions, and collaborative opportunities.
 
-[<img src="https://img.shields.io/badge/Website-shariul.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://shariul.com)  
-[<img src="https://img.shields.io/badge/LinkedIn-shariul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shariul/)
+[<img src="https://img.shields.io/badge/Website-shariul.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://shariul.com) [<img src="https://img.shields.io/badge/LinkedIn-shariul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shariul/) [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/9q5GRgVS2)
+
