@@ -1,4 +1,4 @@
-<img src="./img/shariul-banner.png" alt="md. shariul islam tuhin" />
+<img src="./img/shariul-banner-min.webp" alt="md. shariul islam tuhin" />
 
 <br/>
 
@@ -62,9 +62,10 @@
 </a>
 </div>
 
----
-
 <br/>
+
+
+---
 
 ## Github Statistics & Analysis:
 
