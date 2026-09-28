@@ -15,8 +15,8 @@
 ## 👨‍💻 About Me:
 
 - I have **3+ years of experience** in Full-stack Web Development.
-- I do **Front-end development** using **React.js, Next.js, TypeScript and Redux.js**.
-- I can develop Back-end using **Node.js, Express.js, MongoDB (with Mongoose), PHP, PostgreSQL, MariaDB and Prisma**. 
+- I am currently doing on **Front-end development** using **React.js, Next.js, TypeScript and Redux.js**.
+- I develop Back-end using **Node.js, Express.js, MongoDB (with Mongoose), PHP, PostgreSQL, MariaDB and Prisma**. 
 - I am currently learning **Godot for Game Development**.
 - **Contact me with your queries** for any of these technologies and more.
 
